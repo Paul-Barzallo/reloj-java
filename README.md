@@ -1,13 +1,13 @@
 # Reloj en Java
 
-pequeño programa hecho en java que muestra un reloj en interfaz grafica y con sonido
+pequeÃ±o programa hecho en java que muestra un reloj en interfaz grafica y con sonido
 ![Screenshot](screenshot.png)
 
 ## Prerrequisitos
 
 tener java instalado
 
-#· Instalacion
+# Instalacion
 
 ninguna
 
