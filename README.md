@@ -7,7 +7,7 @@ pequeño programa hecho en java que muestra un reloj en interfaz grafica y con s
 
 tener java instalado
 
-# Instalacion
+## Instalacion
 
 ninguna
 
